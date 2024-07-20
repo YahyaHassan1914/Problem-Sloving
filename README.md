@@ -39,7 +39,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Acknowledgements
 
 Special thanks to the resources and communities that have contributed to my problem-solving skills.
-
----
-
-Feel free to adjust the README to fit the specifics of your repository and the problems you have solved.
